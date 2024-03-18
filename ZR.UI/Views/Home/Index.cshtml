@@ -1,0 +1,207 @@
+﻿@*/************************************************************************************************************
+*  COPYRIGHT BY ZIGGY RAFIQ (ZAHEER RAFIQ)
+*  LinkedIn Profile URL Address: https://www.linkedin.com/in/ziggyrafiq/
+*
+*  System   :  	ZR Demo Project 04 -  Loyalty Card Scheme
+*  Date     :  	5th October 2022
+*  Author   :  	Ziggy Rafiq (https://www.ziggyrafiq.com)
+*  Notes    :
+*  Reminder :	PLEASE DO NOT CHANGE OR REMOVE AUTHOR NAME.
+*  Version  :   0.0.1
+************************************************************************************************************/*@
+@model ZR.UI.Extensions.PaginatedList<ZR.Infrastructure.Models.Customer>
+@{
+    ViewData["Title"] = "Ziggy Rafiq Demo Project 04";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Ziggy Rafiq Demo Project 04</h1>
+  
+</div>
+
+<div class="row p-2 m-1">
+<div class="col-lg-12  col-md-12 col-sm-12 about-bg-style">
+    <h1 class="body-heading col-sm-12 p-2 m-1 ">Customers List</h1>
+         
+               <a asp-action="Upsert" asp-controller="Home" class="btn btn-primary">Add New Customer</a>
+
+        
+        
+            <a href="@Url.Action("Index","Home",new { pageNumber=@Model.PageIndex, softDeleted=true})" class="btn btn-primary">Display All Soft Deleted Customers</a>
+
+        <a href="@Url.Action("Index","Home",new { pageNumber=@Model.PageIndex, softDeleted=false})" class="btn btn-primary">Display All Customers Not Soft Deleted</a>
+        
+        
+           
+
+    <table id="DataModelTable" class="table  table-striped table-hover">
+        <thead class="thead-light">
+            <tr>
+                <th>Name</th>
+
+                <th>Address</th>
+                <th>Telephone Number</th>
+                    <th>Email Address</th>
+           
+                <th>Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DisplayName)
+                    </td>
+                     <td>
+                         @Html.DisplayFor(modelItem => item.CustomerAddress.AddressSummary)
+                     </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Telpehone)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EmailAddress)
+                        </td>
+                  
+                    <td>
+                        @if (item.IsActive == false)
+                        {
+                            <p class="text-warning">Not Active</p>
+                        }
+                        else
+                        {
+                            <p class="text-success">Active</p>
+
+                        }
+                    </td>
+                    <td>
+                            <a href="@Url.Action("Upsert","Home",new {  ID=@item.Id})" class="btn btn-primary btn-sm"><i class="far fa-edit"></i></a>
+
+                            @if (item.IsSoftDeleted != true)
+                            {
+                           
+                                @*<p class="text-success">Not Soft Deleted</p>*@
+                                <a class="softDeleteModal btn btn-warning btn-sm" href="#" data-toggle="modal" data-id="@item.Id" title="Soft Delete" id="SoftDelete">
+                                    <i class="fas fa-eraser"></i>
+                                </a>
+
+                            }
+                            
+
+                            <i class="fa-solid fa-trash-can"></i>
+
+                            <a class="hardDeleteModal btn btn-danger btn-sm" href="#" data-toggle="modal" data-id="@item.Id" title="Hard Delete" id="HardDelete">
+                                <i class="fas fa-trash-alt"></i>
+                                </a>
+
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    @{
+        var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+        var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+    }
+
+
+
+    <a href="@Url.Action("Index","Home",new { pageNumber=@Model.PageIndex - 1})" class="btn btn-primary @prevDisabled" ">Previous</a>
+    <a href="@Url.Action("Index","Home",new { pageNumber=@Model.PageIndex + 1})" class="btn  btn-primary @nextDisabled">Next</a>
+
+
+</div>
+         </div>
+
+<div class="row"><div class="col-md-12 m-md-2 p-md-2"></div></div>
+
+<!-- Soft Delete Modal START-->
+<div class="modal fade" id="SoftDeleteModal" tabindex="-1" role="dialog" aria-labelledby="SoftDeleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div id='SoftDeleteModalContent'></div>
+        </div>
+    </div>
+</div>
+<!-- Soft Delete Modal END-->
+<!-- Hard Delete Modal START-->
+<div class="modal fade" id="HardDeleteModal" tabindex="-1" role="dialog" aria-labelledby="HardDeleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div id='HardDeleteModalContent'></div>
+        </div>
+    </div>
+</div>
+<!-- Soft Delete Modal END-->
+
+
+@section Scripts {
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $(".softDeleteModal").click(function () {
+            debugger;
+            var $buttonClicked = $(this);
+            var id = $buttonClicked.attr('data-id');
+            var options = { "backdrop": "static", keyboard: true };
+            $.ajax({
+                type: "GET",
+                //url: '/Admin/Address/Delete',
+                 url: "@Url.Action("SoftDelete","Home")",
+                contentType: "application/json; charset=utf-8",
+                data: { "ID": id },
+                datatype: "json",
+                success: function (data) {
+                    debugger;
+                    $('#SoftDeleteModalContent').html(data);
+                    $('#SoftDeleteModal').modal(options);
+                    $('#SoftDeleteModal').modal('show');
+
+                },
+                error: function () {
+                    alert("Dynamic content load failed.");
+                    
+                }
+            });
+        });
+
+        $(".hardDeleteModal").click(function () {
+            debugger;
+            var $buttonClicked = $(this);
+            var id = $buttonClicked.attr('data-id');
+            var options = { "backdrop": "static", keyboard: true };
+            $.ajax({
+                type: "GET",
+                url: "@Url.Action("HardDelete","Home")",
+                contentType: "application/json; charset=utf-8",
+                data: { "ID": id },
+                datatype: "json",
+                success: function (data) {
+                    debugger;
+                    $('#HardDeleteModalContent').html(data);
+                    $('#HardDeleteModal').modal(options);
+                    $('#HardDeleteModal').modal('show');
+
+                },
+                error: function () {
+                    alert("Dynamic content load failed.");
+                }
+            });
+        });
+
+        $("#closbtn").click(function () {
+            $('#DeleteModal').modal('hide');
+        });
+
+    });
+
+
+
+
+
+</script>
+}

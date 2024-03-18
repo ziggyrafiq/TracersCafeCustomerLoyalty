@@ -1,0 +1,40 @@
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.deps.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\refint\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Infrastructure\obj\Debug\net6.0\ref\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.deps.json
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\refint\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ref\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.runtimeconfig.json
+E:\GitHub\ZR-Demo-Project-04\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.genruntimeconfig.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.deps.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.runtimeconfig.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\bin\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\refint\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ZR.Infrastructure.genruntimeconfig.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Infrastructure\obj\Debug\net6.0\ref\ZR.Infrastructure.dll

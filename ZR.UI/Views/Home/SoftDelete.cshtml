@@ -1,0 +1,49 @@
+﻿@*/************************************************************************************************************
+*  COPYRIGHT BY ZIGGY RAFIQ (ZAHEER RAFIQ)
+*  LinkedIn Profile URL Address: https://www.linkedin.com/in/ziggyrafiq/
+*
+*  System   :  	ZR Demo Project 04 -  Loyalty Card Scheme
+*  Date     :  	5th October 2022
+*  Author   :  	Ziggy Rafiq (https://www.ziggyrafiq.com)
+*  Notes    :
+*  Reminder :	PLEASE DO NOT CHANGE OR REMOVE AUTHOR NAME.
+*  Version  :   0.0.1
+************************************************************************************************************/*@
+
+@model ZR.Infrastructure.ViewModels.CustomerVM
+
+
+
+<div class="modal-header">
+    <h5 class="modal-title">Are you sure you want to Soft Delete @Model.Customer.DisplayName! </h5>
+    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body">
+    <p class=" fw-bold"> Are you sure you want to Soft Delete   today on @DateTime.Now.ToLongDateString() ?.</p>
+</div>
+<div class="modal-footer">
+    <form id="frmCustomer" asp-controller="Home" asp-action="SoftDelete"
+      
+       method="post"  
+       autocomplete="off" enctype="multipart/form-data" novalidate=false>
+        <input type="hidden" asp-for="Customer.Id" />
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn btn-primary">Yes</button>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">No</button>
+
+    
+    </form>
+
+</div>
+
+@section Scripts {
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#closbtn").click(function () {
+                $('#SoftDeleteModal').modal('hide');
+            });
+        }
+    </script>
+}

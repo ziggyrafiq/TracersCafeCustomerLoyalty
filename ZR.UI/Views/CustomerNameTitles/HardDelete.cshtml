@@ -1,0 +1,43 @@
+﻿@*/************************************************************************************************************
+*  COPYRIGHT BY ZIGGY RAFIQ (ZAHEER RAFIQ)
+*  LinkedIn Profile URL Address: https://www.linkedin.com/in/ziggyrafiq/
+*
+*  System   :  	ZR Demo Project 04 -  Loyalty Card Scheme
+*  Date     :  	5th October 2022
+*  Author   :  	Ziggy Rafiq (https://www.ziggyrafiq.com)
+*  Notes    :
+*  Reminder :	PLEASE DO NOT CHANGE OR REMOVE AUTHOR NAME.
+*  Version  :   0.0.1
+************************************************************************************************************/*@
+@model ZR.Infrastructure.ViewModels.CustomerVM
+
+<div class="modal-header">
+    <h5 class="modal-title">Are you sure you want to Hard Delete @Model.CustomerTitle.Name! </h5>
+    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body">
+    <p class=" fw-bold"> Are you sure you want to Hard Delete @Model.CustomerTitle.Name  today on @DateTime.Now.ToLongDateString() ?.</p>
+    <p class="text-danger fw-bold">By selecting Yes it will delete  @Model.CustomerTitle.Name permently </p>
+</div>
+<div class="modal-footer">
+    <form id="frmCustomer" asp-controller="CustomerNameTitles" asp-action="HardDelete"
+          method="post"
+          autocomplete="off" enctype="multipart/form-data" novalidate=false>
+        <input type="hidden" asp-for="CustomerTitle.Id" />
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn btn-danger">Yes</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">No</button>
+    </form>
+</div>
+
+@section Scripts {
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#closbtn").click(function () {
+                $('#SoftDeleteModal').modal('hide');
+            });
+        }
+    </script>
+}

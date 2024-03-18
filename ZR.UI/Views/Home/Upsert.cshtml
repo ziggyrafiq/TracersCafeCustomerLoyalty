@@ -1,0 +1,161 @@
+﻿@*/************************************************************************************************************
+*  COPYRIGHT BY ZIGGY RAFIQ (ZAHEER RAFIQ)
+*  LinkedIn Profile URL Address: https://www.linkedin.com/in/ziggyrafiq/
+*
+*  System   :  	ZR Demo Project 04 -  Loyalty Card Scheme
+*  Date     :  	5th October 2022
+*  Author   :  	Ziggy Rafiq (https://www.ziggyrafiq.com)
+*  Notes    :
+*  Reminder :	PLEASE DO NOT CHANGE OR REMOVE AUTHOR NAME.
+*  Version  :   0.0.1
+************************************************************************************************************/*@
+@model ZR.Infrastructure.ViewModels.CustomerVM
+ 
+ 
+
+
+<form id="frmCustomer" asp-controller="Home" asp-action="Upsert"
+      class="row g-3 form-group  p-2 m-1"
+       method="post"  
+       autocomplete="off" enctype="multipart/form-data" novalidate=false>
+
+    <div class="row p-2 m-1">
+           <div class="col-md-12">
+               <h1>Customer Form</h1>
+            <input type="hidden" asp-for="Customer.Id" />
+            <input type="hidden" asp-for="Customer.CustomerAddress.Id" />
+            
+            @if (Model != null)
+            {
+                <h2 class="text-primary">Edit @Model.Customer.DisplayName</h2>
+                //edit
+                
+            }
+            else
+            {
+                <h2 class="text-primary">Add New Customer</h2>
+            }
+            
+
+            <h3 class="text-capitalize">Please complete the form below</h3>
+            @*@Html.AntiForgeryToken()*@
+            
+
+            <div asp-validation-summary="ModelOnly" class="col-md-12 control-label text-danger fw-bold"></div>
+           </div>
+       </div>
+    <div class="row p-2 m-1">
+        <div class="form-group col-md-12">
+
+            <label asp-for="Customer.CustomerTitleId"></label>
+          
+            <select asp-for="Customer.CustomerTitleId" class="form-control"
+                    asp-items="(IEnumerable<SelectListItem>)ViewBag.CustomerNameTitles">
+                <option disabled selected>--- Select Your Name Title ---</option>
+            </select>
+            <span asp-validation-for="Customer.CustomerTitleId" class="text-danger control-label fw-bold"></span>
+        </div>
+    </div>
+    <div class="row p-2 m-1">
+        <div class="form-group col-md-4">
+            <label asp-for="Customer.FirstName"></label>
+            <input asp-for="Customer.FirstName" class="form-control" placeholder="First Name" />
+            <span asp-validation-for="Customer.FirstName" class="text-danger control-label fw-bold"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="Customer.MiddleName"></label>
+            <input asp-for="Customer.MiddleName" class="form-control" placeholder="Middle Name" />            
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="Customer.LastName"></label>
+            <input asp-for="Customer.LastName" class="form-control" placeholder="Last Name" />
+            <span asp-validation-for="Customer.LastName" class="text-danger control-label fw-bold"></span>
+        </div>
+    </div>
+    <div class="row p-2 m-1">
+        <div class="form-group col-md-6">
+                     <label asp-for="Customer.EmailAddress"></label>
+            <input asp-for="Customer.EmailAddress" class="form-control" placeholder="Email Address" />
+            <span asp-validation-for="Customer.EmailAddress" class="text-danger control-label fw-bold"></span>
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Customer.Age"></label>
+            <input asp-for="Customer.Age" class="form-control" placeholder="Age" />
+            <span asp-validation-for="Customer.Age" class="text-danger control-label fw-bold"></span>
+
+    </div>
+    </div>
+        <div class="row p-2 m-1">
+            <div class="form-group col-md-12">
+                <label asp-for="Customer.Telpehone"></label>
+                <label>Telephone Number Format 0000-000-0000</label>
+                <input asp-for="Customer.Telpehone" class="form-control" placeholder="Telpehone Number" />
+                <span asp-validation-for="Customer.Telpehone" class="text-danger control-label fw-bold"></span>
+            </div>
+            
+    </div>
+    <div class="row p-2 m-1">
+        <div class="form-group col-md-6">
+            <label asp-for="Customer.CustomerAddress.AddressLine1"></label>
+            <input asp-for="Customer.CustomerAddress.AddressLine1" class="form-control" placeholder="Address Line 1" />
+            <span asp-validation-for="Customer.CustomerAddress.AddressLine1" class="text-danger control-label fw-bold"></span>
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Customer.CustomerAddress.AddressLine2"></label>
+            <input asp-for="Customer.CustomerAddress.AddressLine2" class="form-control" placeholder="Address Line 2" />
+            <span asp-validation-for="Customer.CustomerAddress.AddressLine2" class="text-danger control-label fw-bold"></span>
+
+        </div>
+    </div>
+    <div class="row p-2 m-1">
+        <div class="form-group col-md-5">
+            <label asp-for="Customer.CustomerAddress.AddressLine3"></label>
+            <input asp-for="Customer.CustomerAddress.AddressLine3" class="form-control" placeholder="Address Line 3" />
+            <span asp-validation-for="Customer.CustomerAddress.AddressLine3" class="text-danger control-label fw-bold"></span>
+
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="Customer.CustomerAddress.AddressLine4"></label>
+            <input asp-for="Customer.CustomerAddress.AddressLine4" class="form-control" placeholder="Address Line 4" />
+            <span asp-validation-for="Customer.CustomerAddress.AddressLine4" class="text-danger control-label fw-bold"></span>
+
+        </div>
+        <div class="form-group col-md-3">
+            <label asp-for="Customer.CustomerAddress.PostCode"></label>
+            <input asp-for="Customer.CustomerAddress.PostCode" class="form-control" placeholder="Post Code" />
+            <span asp-validation-for="Customer.CustomerAddress.PostCode" class="text-danger control-label fw-bold"></span>
+
+        </div>
+    </div>
+    <div class="row p-2 m-1">
+        <div class="form-group col-md-4">
+                       
+            <div class="form-check">              
+                    <input asp-for="Customer.IsActive" class="form-check-input" type="checkbox">
+                     <label class="form-check-label" asp-for="Customer.IsActive"></label>
+            </div>           
+        </div>
+        <div class="form-group col-md-4">
+
+            <div class="form-check">
+                <input asp-for="Customer.IsSoftDeleted" class="form-check-input" type="checkbox">
+                <label class="form-check-label" asp-for="Customer.IsSoftDeleted"></label>
+            </div>
+        </div>
+        <div class="form-group col-md-4">
+
+            <div class="form-check">
+                <input asp-for="Customer.IsHardDeleted" class="form-check-input" type="checkbox">
+                <label class="form-check-label" asp-for="Customer.IsHardDeleted"></label>
+            </div>
+        </div>
+    </div>
+
+    <button class="btn btn-primary" type="submit">Save Changes</button>
+
+    </form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+
+}

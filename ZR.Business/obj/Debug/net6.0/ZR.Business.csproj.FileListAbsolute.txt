@@ -1,0 +1,42 @@
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\bin\Debug\net6.0\ZR.Business.deps.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\bin\Debug\net6.0\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\bin\Debug\net6.0\ZR.Business.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\ZR.Business.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\ZR.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\ZR.Business.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\ZR.Business.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\ZR.Business.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\refint\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\ZR.Business.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.Business\obj\Debug\net6.0\ref\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\bin\Debug\net6.0\ZR.Business.deps.json
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\bin\Debug\net6.0\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\bin\Debug\net6.0\ZR.Business.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ZR.Business.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ZR.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ZR.Business.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ZR.Business.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ZR.Business.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\refint\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ZR.Business.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ref\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\bin\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\bin\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.Business\obj\Debug\net6.0\ZR.Business.csproj.CopyComplete
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\bin\Debug\net6.0\ZR.Business.deps.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\bin\Debug\net6.0\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\bin\Debug\net6.0\ZR.Business.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\bin\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\bin\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ZR.Business.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ZR.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ZR.Business.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ZR.Business.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ZR.Business.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ZR.Business.csproj.CopyComplete
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\refint\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ZR.Business.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.Business\obj\Debug\net6.0\ref\ZR.Business.dll

@@ -1,0 +1,174 @@
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\bin\Debug\net6.0\appsettings.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\bin\Debug\net6.0\ZR.UI.staticwebassets.runtime.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\bin\Debug\net6.0\ZR.UI.exe
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\bin\Debug\net6.0\ZR.UI.deps.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\bin\Debug\net6.0\ZR.UI.runtimeconfig.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\bin\Debug\net6.0\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\bin\Debug\net6.0\ZR.UI.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.RazorAssemblyInfo.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.RazorAssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\scopedcss\bundle\ZR.UI.styles.css
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\scopedcss\projectbundle\ZR.UI.bundle.scp.css
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\refint\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ZR.UI.genruntimeconfig.cache
+E:\GitHub\ZR-Demo-Project-04\ZR Demo Project 04\ZR.UI\obj\Debug\net6.0\ref\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\appsettings.json
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.UI.staticwebassets.runtime.json
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.UI.exe
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.UI.deps.json
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.UI.runtimeconfig.json
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.UI.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.RazorAssemblyInfo.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.RazorAssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\scopedcss\bundle\ZR.UI.styles.css
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\scopedcss\projectbundle\ZR.UI.bundle.scp.css
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\refint\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.genruntimeconfig.cache
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ref\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Humanizer.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\obj\Debug\net6.0\ZR.UI.csproj.CopyComplete
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.Infrastructure.Migrations.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.Business.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\ZR.Infrastructure.Migrations.pdb
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\zr-ui.nlog.config
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\NLog.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.csproj.AssemblyReference.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.AssemblyInfoInputs.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.AssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.csproj.CoreCompileInputs.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.RazorAssemblyInfo.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.RazorAssemblyInfo.cs
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\zr-ui.nlog.config
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\appsettings.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.UI.staticwebassets.runtime.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.UI.exe
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.UI.deps.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.UI.runtimeconfig.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.UI.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Humanizer.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\NLog.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.Business.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.Infrastructure.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.Infrastructure.Migrations.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.Business.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.Infrastructure.Migrations.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\ZR.Infrastructure.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\scopedcss\bundle\ZR.UI.styles.css
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\scopedcss\projectbundle\ZR.UI.bundle.scp.css
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.csproj.CopyComplete
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\refint\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.pdb
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ZR.UI.genruntimeconfig.cache
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\obj\Debug\net6.0\ref\ZR.UI.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\GitHub\ZR-Demo-Project-04-Local\ZR.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\GitHub\ZR-Demo-Project-04\ZR.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
